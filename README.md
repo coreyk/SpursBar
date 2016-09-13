@@ -1,5 +1,5 @@
 # SpursBar
-BitBar plugin, shows upcoming and previous Tottenham Hostpur match info and headlines
+BitBar plugin, shows upcoming and previous Tottenham Hotspur match info and headlines
 
 ![SpursBar screenshot](https://cloud.githubusercontent.com/assets/2213967/18461786/071d930a-794b-11e6-868c-4b3da43b7639.png)
 
