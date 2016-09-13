@@ -3,9 +3,7 @@ BitBar plugin, shows upcoming and previous Tottenham Hotspur match info and head
 
 Already have BitBar installed (and the [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf))?
 
-```html
 <a href="bitbar://openPlugin?title=SpursBar&src=https://github.com/coreyk/SpursBar/raw/master/SpursBar.6h.rb" target="_blank">CLICK HERE</a>
-```
 
 Icon changes on matchday. Times show in 24-hour format outside the US.
 
