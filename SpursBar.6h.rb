@@ -5,9 +5,9 @@
 # <bitbar.author>coreyk</bitbar.author>
 # <bitbar.author.github>coreyk</bitbar.author.github>
 # <bitbar.desc>Shows upcoming and previous Tottenham Hostpur match info and headlines</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://cloud.githubusercontent.com/assets/2213967/18461786/071d930a-794b-11e6-868c-4b3da43b7639.png</bitbar.image>
 # <bitbar.dependencies>ruby, Spurs webfont</bitbar.dependencies>
-# <bitbar.abouturl></bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/coreyk/SpursBar</bitbar.abouturl>
 
 # grab the font from here: http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf
 # and install it with Font Book on your Mac
