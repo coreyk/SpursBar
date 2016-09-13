@@ -1,6 +1,8 @@
 # SpursBar
 BitBar plugin, shows upcoming and previous Tottenham Hotspur match info and headlines
 
+Icon changes on matchday. Times show in 24-hour format outside the US.
+
 ![SpursBar screenshot](https://cloud.githubusercontent.com/assets/2213967/18461786/071d930a-794b-11e6-868c-4b3da43b7639.png)
 
 ## Requires:
