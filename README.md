@@ -8,4 +8,7 @@ BitBar plugin, shows upcoming and previous Tottenham Hostpur match info and head
 * Ruby via [homebrew](https://www.ruby-lang.org/en/documentation/installation/#homebrew) or [RVM](https://rvm.io)
 * [Spurs webfont](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf)
 
+## Installation:
+Copy `SpursBar.6h.rb` to your BitBar plugin directory, and make sure it is executable: `chmod +x SpursBar.6h.rb`
+
 ## Come On You Spurs!
