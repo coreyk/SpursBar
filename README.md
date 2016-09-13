@@ -13,4 +13,9 @@ Icon changes on matchday. Times show in 24-hour format outside the US.
 ## Installation:
 Copy `SpursBar.6h.rb` to your BitBar plugin directory, and make sure it is executable: `chmod +x SpursBar.6h.rb`
 
+Install nokogiri and activesupport: `gem install nokogiri activesupport`
+
+Problem installing nokogiri? You might need to agree to the Xcode license. Run `sudo xcrun cc` and agree.
+
+
 ## Come On You Spurs!
