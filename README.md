@@ -15,7 +15,7 @@ Install [BitBar](https://getbitbar.com/).
 
 Install the [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf) on your system.
 
-Open Terminal, type `gem install nokogiri activesupport`.
+Open Terminal, type `gem install nokogiri activesupport`
 
 Head to the [Sports section of the BitBar site](https://getbitbar.com/plugins/Sports) and click the `Add to BitBar` link next to SpursBar.
 
