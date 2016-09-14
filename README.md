@@ -8,10 +8,19 @@ Icon changes on matchday. Times show in 24-hour format outside the US.
 ## Requires:
 * [BitBar](https://getbitbar.com/)
 * Ruby via [homebrew](https://www.ruby-lang.org/en/documentation/installation/#homebrew) or [RVM](https://rvm.io)
-* [Spurs webfont](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf)
+* [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf)
 
-## Installation:
-Copy `SpursBar.6h.rb` to your BitBar plugin directory, and make sure it is executable: `chmod +x SpursBar.6h.rb`
+## Quick Install:
+Install the [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf) on your system.
+
+Head to the [Sports section of the BitBar site](https://getbitbar.com/plugins/Sports) and click the `Add to BitBar` link next to Spurs bar.
+
+## Manual Install:
+Install the [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf) on your system.
+
+Copy [`SpursBar.6h.rb`](https://github.com/coreyk/SpursBar/raw/master/SpursBar.6h.rb) to your BitBar plugin directory.
+
+Make sure it is executable: `chmod +x SpursBar.6h.rb`
 
 Install nokogiri and activesupport: `gem install nokogiri activesupport`
 
