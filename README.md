@@ -13,7 +13,7 @@ Icon changes on matchday. Times show in 24-hour format outside the US.
 ## Quick Install:
 Install the [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf) on your system.
 
-Head to the [Sports section of the BitBar site](https://getbitbar.com/plugins/Sports) and click the `Add to BitBar` link next to Spurs bar.
+Head to the [Sports section of the BitBar site](https://getbitbar.com/plugins/Sports) and click the `Add to BitBar` link next to SpursBar.
 
 ## Manual Install:
 Install the [Spurs font](http://www.tottenhamhotspur.com/components/fonts/spurs-webfont.ttf) on your system.
